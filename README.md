@@ -38,9 +38,10 @@ Figure 1. Linear Regression
 
 - Python: we proficiently implement python code and the correct pathing.
 
--Web with HTML/CSS:
+-Our Webpage:
 
 We were able to demonstrate our Webpage creation abilities. We created titles and paragraphs in the containers and we played with colors and shapes. We were able to explore head, body and footer. We used bootstraps and differents features. As soon as the web application is loaded up, all the information in behaves exactly as it should. We correctly displayed the dashboard at our webpage and our Team contact information. All elements were created and when the webpage loads, everything were working good with links and buttons. We were able to created a new environment that fit for this project and with the necessary requirements in order to deploy Heroku for external views, though we were not able to completely deploy the app on Heroku. Our webpage is fully responsive and clean when the app loads. The webpage has all three customizations and loads and updated all the required tables and graphics without any errors.
+
 All of prediction of Normal Butane Volume Percentage images, tables, code were correctly displayed, stored, and retrieved. The data is properly displayed using HTML and aesthetically enhanced through CSS and additional bootstrap 3 components.  
 
 •	Big Data:
@@ -64,8 +65,7 @@ Figure 2: Metrics
 
 
 
-Residual Plot: The plot in Figure 2 show evenly distributed residuals, thus giving reason to believe the model performs well and is not over-fit.
-Figure 3: Residual Plot
+Figure 3: Residual Plot show evenly distributed residuals, thus giving reason to believe the model performs well and is not over-fit.
 
 ![image](https://user-images.githubusercontent.com/101227930/185297754-189facfe-7a53-4692-80d8-6e8cbfc9ea06.png)
 
@@ -75,6 +75,7 @@ The total Root Mean Squared Error is 3.51
 
 
 Real Time Model Performance
+
 Finally, real time data, not included in the original dataset was taken from the past 3 weeks and ran in place of the X_test data as X_realtime data. Unfortunately, unit downtime during this time-span allowed only 4 days of continuous runtime data to be input. This real time data was input to the model to simulate an operators view of actual and simulated N-Butane Vol% in TA's recycle line. The results are shown in Figure 4 below.
 
 Figure 4: Real Time Model Performance
