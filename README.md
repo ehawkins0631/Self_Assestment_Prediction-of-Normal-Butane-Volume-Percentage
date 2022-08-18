@@ -47,13 +47,13 @@ All of prediction of Normal Butane Volume Percentage images, tables, code were c
 
 Our notebook file set a Normal Butane Volume Percentage dataset and it is extracted as a DataFrame , then our extracted dataset is transformed into a DataFrames with the correct columns and all our DataFrames are loaded into their respective tables in pgAdmin. The data is filtered to create a DataFrame or tables where there are 20 dataset. The data is filtered to create a DataFrame or table where the Prediction of Normal Butane Volume Percentage is equal to or greater than 20% .
 
-Team Assessment:
+2.- Team Assessment:
 
 We cohesively present our analysis and draw reasonable conclusion from our Normal Butane Volume Percentage dataset:
 
 In conclusion, there is certainly limitations to the model. While it does not predict the N-Butane Vol% exactly, it does seem to trend the general direction of the N-Butane Vol%, and generally predicts this figure within 2-5 Vol% points. By only allowing the prediction to occur when all input data streams are within normal operating conditions, performance is likly to improve.
 
-Summary of Project:
+3.- Summary of Project:
 
 Analysis Output Performance
 Performance Metrics The following performace metric results were gathered based on the X_test predictions.
