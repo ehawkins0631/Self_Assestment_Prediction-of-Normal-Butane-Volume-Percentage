@@ -38,3 +38,6 @@ Figure 4: Real Time Model Performance
 
 Conclusion
 In conclusion, there is certainly limitations to the model. While it does not predict the N-Butane Vol% exactly, it does seem to trend the general direction of the N-Butane Vol%, and generally predicts this figure within 2-5 Vol% points. By only allowing the prediction to occur when all input data streams are within normal operating conditions, performance is likly to improve.
+
+![image](https://user-images.githubusercontent.com/101227930/185296714-bcfd6502-d606-4bbb-b380-967d5297828d.png)
+
