@@ -25,7 +25,7 @@ We were able to cohesively present a written analysis that summarizes the data d
 
 - Matplotlib:
 
-We were able to cohesively present a written analysis that summarizes the data displayed in the dataframe and multiple-line chart! You also explained the implication of both analyses! Very nice report! Great job on creating your DataFrames in your notebook. It contained all the rides, drivers, fares and averages. Our notebook also generated a summary DataFrame with all the requirements. We were effectively able to demonstrate the graph with annotations, x-axis is by months and the correct graph style is used. 
+We were able to cohesively present a written analysis that summarizes the data displayed in the dataframe and multiple-line chart. We created our  DataFrames our notebook. It contained all the information and averages. Our notebook also generated a summary DataFrame with all the requirements. We were effectively able to demonstrate the graph with annotations, x-axis is by months and the correct graph style were used. 
 
 - SQL:
 
