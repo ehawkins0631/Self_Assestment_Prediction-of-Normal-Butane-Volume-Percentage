@@ -1,8 +1,8 @@
-# Self_Assestment_Prediction-of-Normal-Butane-Volume-Percentage
+**Self_Assestment_Prediction-of-Normal-Butane-Volume-Percentage**
 
+1.- Self Assestment:
 
-* Self Assestment
-* Wi our project we wanted to explain:
+- With our project we wanted to explain:
     * How a machine learning algorithm is used in data analytics.
     * Create training and test groups from Normal-Butane-Volume-Percentage data set.
     * Implement the logistic regression, decision tree, random forest, and Support Vector Machine algorithms.
@@ -11,18 +11,21 @@
     * Determine which Supervised Learning algorithm is best used for Normal-Butane-Volume-Percentage data set.
     * Use ensemble and resampling techniques to improve model performance.
 
-ETL
+- ETL
 We were able to create a function to extract, transform and load the three datasets. All three datasets were extracted into DataFrames correctly. The DataFrames were displayed and contained the correct columns. We cleaned Normal-Butane-Volume-Percentage data. We filtered out the Normal-Butane-Volume-Percentage, used try-except to drop duplicates. We list comprehension was used to drop columns with null values. The box values were converted correctly into strings. The budget, release date and running time were cleaned properly. Well done! On deliverable 3, the Kaggle data cleaning was tackled. Kaggle data was merged with data to form the Prediction-of-Normal-Butane-Volume-Percentage DataFrame. Unnecessary columns were dropped from this DataFrame, columns were renamed and missing Kaggle data was filled using Prediction-of-Normal-Butane-Volume-Percentage data. Normal-Butane-Volume-Percentage data was  cleaned and merged with the  Prediction-of-Normal-Butane-Volume-Percentage DataFrame. The empty rows were filled with zero. The DataFrames are displayed and have the correct columns.
 
-Web with HTML/CSS
+- Web with HTML/CSS
 All of prediction-of-Normal-Butane-Volume-Percentage images, tables, code were correctly displayed, stored, and retrieved. The data is properly displayed using HTML and aesthetically enhanced through CSS and additional bootstrap 3 components. 
 
-Pandas:
+- Pandas:
 We were able to cohesively present a written analysis that summarizes the data displayed in the dataframe and multiple-line chart. We also explained the implication of both analyses.  We created our DataFrames in our notebook. It cont ained all the prediction-of-Normal-Butane-Volume-Percentage. The notebook also generated a summary DataFrame with all the requirements. We were effectively able to demonstrate the graph with annotations, x-axis is by dates and the correct graph style is used. We comprehensive reports and how you used the data to support it.
+
+- Feature Importances
+We also went ahead and calculated some feature importances, feature coefficients, and correlations to understand the relationships of the features among each other and with different model types. The feature importance functions such as model.coef_ and model.feature_importances_, along with naitive process knowlege of team group members, allowed for a systematic ranking of features. Though 54 of the original 56 features were left in the model, the feature importance ranking is a valuable output and will be used to further tune the model outside of the class project end date.
 
 * Group Assestment
 
-We cohesively present our analysis and draw reasonable conclusions from the data:
+We cohesively present our analysis and draw reasonable conclusion from our Normal-Butane-Volume-Percentage data set:
 
 In conclusion, there is certainly limitations to the model. While it does not predict the N-Butane Vol% exactly, it does seem to trend the general direction of the N-Butane Vol%, and generally predicts this figure within 2-5 Vol% points. By only allowing the prediction to occur when all input data streams are within normal operating conditions, performance is likly to improve.
 
