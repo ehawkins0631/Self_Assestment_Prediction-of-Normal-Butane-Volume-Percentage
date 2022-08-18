@@ -80,10 +80,14 @@ Analysis Output Performance
 Performance Metrics
 The following performace metric results were gathered based on the X_test predictions.
 
+Figure 2: Metrics 
+
+![image](https://user-images.githubusercontent.com/101227930/185315649-69ecf9f0-c649-4a31-8407-277a975afd04.png)
+
 
 
 Residual Plot: The plot in Figure 2 show evenly distributed residuals, thus giving reason to believe the model performs well and is not over-fit.
-Figure 2 Residual Plot
+Figure 3: Residual Plot
 
 ![image](https://user-images.githubusercontent.com/101227930/185297754-189facfe-7a53-4692-80d8-6e8cbfc9ea06.png)
 
@@ -96,7 +100,7 @@ Total Deviation Accuracy: 99.4%
 Real Time Model Performance
 Finally, real time data, not included in the original dataset was taken from the past 3 weeks and ran in place of the X_test data as X_realtime data. Unfortunately, unit downtime during this time-span allowed only 4 days of continuous runtime data to be input. This real time data was input to the model to simulate an operators view of actual and simulated N-Butane Vol% in TA's recycle line. The results are shown in Figure 4 below.
 
-Figure 3 Real Time Model Performance
+Figure 4: Real Time Model Performance
 
 ![image](https://user-images.githubusercontent.com/101227930/185296714-bcfd6502-d606-4bbb-b380-967d5297828d.png)
 
