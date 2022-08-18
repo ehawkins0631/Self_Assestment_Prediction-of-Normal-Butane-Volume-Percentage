@@ -1,4 +1,4 @@
-**Self_Assestment_Prediction-of-Normal-Butane-Volume-Percentage**
+**Self Assestment Prediction of Normal Butane Volume Percentage**
 
 1.- Self Assestment:
 
@@ -28,7 +28,10 @@ We more than delivered on our query establishment that enabled us to create a ta
 
 Statistics:
 
-We were able to demonstrate our statistics abilities with this project, we got a very marketable skill during this Bootcamp. The linear regression to predict MPG was great! You imported the csv file into a DataFrame. You wrote a clean R script for a linear regression model to perform on all six variables. An R script was also written well to create a statistical summary of the regression and it addresses all three questions! Great job with this deliverable! Great job with your second deliverable, in regards to your summary for suspension coils! Again, you successfully imported the csv file and read into a DataFrame. The total summary has all four metrics for all manufacturing lots and the lot summary DataFrame has all four metrics as well! The summary addressed design specifications all manufacturing lots and ALL three lots. Also, an amazing job with your R scripts! An R script was written for a t-test that compares all manufacturing lots vs the mean psi population. And, an R script was also written for all three t-tests. Well done with your summary, you were able to address the results across all manufacturing lots and all three lots. Now, , I have to say how impressed I am with your statistical design. It had a metric to be tested, a null or alternate hypothesis was described, your statistical test is well described and the data for the statistical test is well described. This was an amazing assignment, you really got to showcase your R and statistical modeling knowledge in a beautiful comprehensive manner! Keep up the good work and this amazing flow you have been able to establish, it only gets better!
+We were able to demonstrate our statistics abilities with this project, we got a very marketable skill during this Bootcamp. The linear regression to predict Normal Butane Volume Percentage was great! We imported the csv file and read into a DataFrame. You wrote a clean R script for a linear regression model to perform on all our variables. An R script was also written well to create a statistical summary of the regression and it addresses all three questions!  The total summary has all the metrics. An R script was written for a t-test that compares Prediction of Normal Butane Volume Percentage Vs. Actual Real Time, an R script was also written for all three t-tests. We were able to address the results across all Prediction of Normal Butane Volume Percentage data set. We have an awesome statistical design. We had a metric to be tested, a null or alternate hypothesis was described, our statistical test is well described and the data for the statistical test is well described. This was an amazing project, we really got to showcase our R and statistical modeling knowledge in a beautiful comprehensive manner. We wish to keep up the good work and this amazing flow we have been able to establish for the next project.
+
+![image](https://user-images.githubusercontent.com/101227930/185302134-7e35ff5c-ce25-4316-9b91-4122aa869cc7.png)
+
 
 
 Python: we proficiently implement python code and the correct pathing.
