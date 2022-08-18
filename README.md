@@ -2,6 +2,8 @@
 
 1.- Self Assestment:
 
+- Supervised Machine Learning:
+
 - With our project we wanted to explain:
     * How a machine learning algorithm is used in data analytics.
     * Create training and test groups from Normal Butane Volumen Percentage dataset.
@@ -10,6 +12,12 @@
     * Compare the advantages and disadvantages of each supervised learning algorithm.
     * Determine which Supervised Learning algorithm is best used for Normal-Butane-Volume-Percentage data set.
     * Use ensemble and resampling techniques to improve model performance.
+
+We were able to demonstrate our machine learning abilities. When resampling models to Predict of Normal Butane Volume Percentage, there was an accuracy score and confusion matrix for all three algorithms. And, we were able to simultaneously generate a classification resort for all three respective algorithms, we did a great job in regards to predicting Normal Butane Volume Percentage for the SMOTEENN algorithm. There is a confusion matrix and classification report. We used ensemble classifier to predict Normal Butane Volume Percentage. Proper implementation of accuracy score and confusion matrix for one algorithms. We were able to create a classification report and for one algorithms. We were able to sorting our list features, as well. The balanced accuracy score and the precision and recall scores for all our algorithms are described. 
+
+Feature Importances:
+We also went ahead and calculated some feature importances, feature coefficients, and correlations to understand the relationships of the features among each other and with different model types. The feature importance functions such as model.coef_ and model.feature_importances_, along with naitive process knowlege of team group members, allowed for a systematic ranking of features. Though 54 of the original 56 features were left 
+in the model, the feature importance ranking is a valuable output and will be used to further tune the model outside of the class project end date.
 
 - ETL:
 
@@ -48,14 +56,6 @@ Figure 1. Linear Regression
 - Big Data:
 
 Our notebook file set a Normal Butane Volume Percentage dataset and it is extracted as a DataFrame , then our extracted dataset is transformed into a DataFrames with the correct columns and all our DataFrames are loaded into their respective tables in pgAdmin. The data is filtered to create a DataFrame or tables where there are 20 dataset. The data is filtered to create a DataFrame or table where the  Prediction of Normal Butane Volume Percentage is equal to or greater than 20% . 
-
-- Supervised Machine Learning:
-
-We were able to demonstrate our machine learning abilities. When resampling models to Predict of Normal Butane Volume Percentage, there was an accuracy score and confusion matrix for all three algorithms. And, we were able to simultaneously generate a classification resort for all three respective algorithms, we did a great job in regards to predicting Normal Butane Volume Percentage for the SMOTEENN algorithm. There is a confusion matrix and classification report. We used ensemble classifier to predict Normal Butane Volume Percentage. Proper implementation of accuracy score and confusion matrix for one algorithms. We were able to create a classification report and for one algorithms. We were able to sorting our list features, as well. The balanced accuracy score and the precision and recall scores for all our algorithms are described. 
-
-Feature Importances:
-We also went ahead and calculated some feature importances, feature coefficients, and correlations to understand the relationships of the features among each other and with different model types. The feature importance functions such as model.coef_ and model.feature_importances_, along with naitive process knowlege of team group members, allowed for a systematic ranking of features. Though 54 of the original 56 features were left in the model, the feature importance ranking is a valuable output and will be used to further tune the model outside of the class project end date.
-
 
 - Unsupervised Machine Learning:
 
