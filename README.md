@@ -23,6 +23,10 @@ We were able to cohesively present a written analysis that summarizes the data d
 - Matplotlib
 We were able to cohesively present a written analysis that summarizes the data displayed in the dataframe and multiple-line chart! You also explained the implication of both analyses! Very nice report! Great job on creating your DataFrames in your notebook. It contained all the rides, drivers, fares and averages. Our notebook also generated a summary DataFrame with all the requirements. We were effectively able to demonstrate the graph with annotations, x-axis is by months and the correct graph style is used. 
 
+- Employee Database with SQL
+We more than delivered on our query establishment that enabled us to create a table with unique Normal-Butane-Volume-Percentage tables – all of which were correct and successfully exported as CSV files. We structured our written analysis, we make sure expand on all of the required touchpoints. In addition, the format of our findings were arranged accordingly: Furthermore, in our analysis we have a well-defined purpose. Moreover, our summary addresses tables and queries present as well!
+
+Python: we proficiently implement python code and the correct pathing.
 
 - Feature Importances
 We also went ahead and calculated some feature importances, feature coefficients, and correlations to understand the relationships of the features among each other and with different model types. The feature importance functions such as model.coef_ and model.feature_importances_, along with naitive process knowlege of team group members, allowed for a systematic ranking of features. Though 54 of the original 56 features were left in the model, the feature importance ranking is a valuable output and will be used to further tune the model outside of the class project end date.
