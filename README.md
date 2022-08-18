@@ -18,19 +18,23 @@ We were able to create a function to extract, transform and load the three datas
 All of prediction-of-Normal-Butane-Volume-Percentage images, tables, code were correctly displayed, stored, and retrieved. The data is properly displayed using HTML and aesthetically enhanced through CSS and additional bootstrap 3 components. 
 
 - Pandas:
-We were able to cohesively present a written analysis that summarizes the data displayed in the dataframe and multiple-line chart. We also explained the implication of both analyses.  We created our DataFrames in our notebook. It cont ained all the prediction-of-Normal-Butane-Volume-Percentage. The notebook also generated a summary DataFrame with all the requirements. We were effectively able to demonstrate the graph with annotations, x-axis is by dates and the correct graph style is used. We comprehensive reports and how you used the data to support it.
+We were able to cohesively present a written analysis that summarizes the data displayed in the dataframe and multiple-line chart. We also explained the implication of both analyses.  We created our DataFrames in our notebook. It cont ained all the prediction-of-Normal-Butane-Volume-Percentage. The notebook also generated a summary DataFrame with all the requirements. We were effectively able to demonstrate the graph with annotations, x-axis is by dates and the correct graph style is used. We comprehensive reports and how you used the data to support it
+
+- Matplotlib
+We were able to cohesively present a written analysis that summarizes the data displayed in the dataframe and multiple-line chart! You also explained the implication of both analyses! Very nice report! Great job on creating your DataFrames in your notebook. It contained all the rides, drivers, fares and averages. The notebook also generated a summary DataFrame with all the requirements. The line chart accurately matches the line chart provided in the homework description as well! You were effectively able to demonstrate the graph with annotations, x-axis is by months and the correct graph style is used. This is a job well done! And you should be proud! Now, I have to say how impressed with your comprehensive reports and how you used the data to support it. Keep up the good work and this amazing flow you have been able to establish!
+
 
 - Feature Importances
 We also went ahead and calculated some feature importances, feature coefficients, and correlations to understand the relationships of the features among each other and with different model types. The feature importance functions such as model.coef_ and model.feature_importances_, along with naitive process knowlege of team group members, allowed for a systematic ranking of features. Though 54 of the original 56 features were left in the model, the feature importance ranking is a valuable output and will be used to further tune the model outside of the class project end date.
 
-* Group Assestment
+2.- Group Assestment
 
 We cohesively present our analysis and draw reasonable conclusion from our Normal-Butane-Volume-Percentage data set:
 
 In conclusion, there is certainly limitations to the model. While it does not predict the N-Butane Vol% exactly, it does seem to trend the general direction of the N-Butane Vol%, and generally predicts this figure within 2-5 Vol% points. By only allowing the prediction to occur when all input data streams are within normal operating conditions, performance is likly to improve.
 
 
-* Summary of Project
+3.- Summary of Project
 Project Summary: Analysis Output Performance
 Performance Metrics
 The following performace metric results were gathered based on the X_test predictions.
