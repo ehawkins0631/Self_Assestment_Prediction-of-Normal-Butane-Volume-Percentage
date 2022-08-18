@@ -4,7 +4,7 @@
 
 - With our project we wanted to explain:
     * How a machine learning algorithm is used in data analytics.
-    * Create training and test groups from Normal-Butane-Volume-Percentage data set.
+    * Create training and test groups from Normal Butane Volumen Percentage dataset.
     * Implement the logistic regression, decision tree, random forest, and Support Vector Machine algorithms.
     * Interpret the results of the logistic regression, decision tree, random forest, and support vector machine algorithms.
     * Compare the advantages and disadvantages of each supervised learning algorithm.
@@ -13,7 +13,7 @@
 
 - ETL:
 
-We were able to create a function to extract, transform and load the three datasets. All three datasets were extracted into DataFrames correctly. The DataFrames were displayed and contained the correct columns. We cleaned Normal-Butane-Volume-Percentage data. We filtered out the Normal-Butane-Volume-Percentage, used try-except to drop duplicates. We list comprehension was used to drop columns with null values. The box values were converted correctly into strings. The budget, release date and running time were cleaned properly. Well done! On deliverable 3, the Kaggle data cleaning was tackled. Kaggle data was merged with data to form the Prediction-of-Normal-Butane-Volume-Percentage DataFrame. Unnecessary columns were dropped from this DataFrame, columns were renamed and missing Kaggle data was filled using Prediction-of-Normal-Butane-Volume-Percentage data. Normal-Butane-Volume-Percentage data was  cleaned and merged with the  Prediction-of-Normal-Butane-Volume-Percentage DataFrame. The empty rows were filled with zero. The DataFrames are displayed and have the correct columns.
+We were able to create a function to extract, transform and load our Normal Butane Volumen Percentage dataset. Our dataset were extracted into DataFrames and We displayed the DataFrames with columns. We cleaned Normal Butane Volumen Percentage data. We filtered out the Normal Butane Volumen Percentage, we used try-except to drop duplicates. We list comprehension was used to drop columns with null values. Our dataset were cleaned properly. Unnecessary columns were dropped from this DataFrame, columns were renamed and missing Kaggle data was filled using Normal Butane Volumen Percentage data. Normal Butane Volumen Percentage data was  cleaned and merged with the  Normal Butane Volumen Percentage DataFrame. The empty rows were filled with zero. The DataFrames are displayed and have the correct columns.
 
 - Web with HTML/CSS:
 
