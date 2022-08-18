@@ -36,8 +36,26 @@ We were able to demonstrate our statistics abilities with this project, we got a
 
 Python: we proficiently implement python code and the correct pathing.
 
+- Our Website: we were able to demonstrate our bar chart creation abilities. We created a title for the chart from the layout array. As soon as the web application is loaded up, the bar chart behaves exactly as it should.  We correctly displayed the dashboard at our webpage. All elements are created with the layout and when the webpage loads, we were able created a new environment with the necessary requirements in order to deploy Heroku,  our webpage is fully responsive and clean when the app loads. The webpage has all three customizations and loads and updated all the required tables and charts without any errors.
+
+- Big Data
+Our notebook file set a Normal Butane Volume Percentage dataset and it is extracted as a DataFrame , then our extracted dataset is transformed into a DataFrames with the correct columns and all our DataFrames are loaded into their respective tables in pgAdmin. The data is filtered to create a DataFrame or table where there are 20 or more dates. The data is filtered to create a DataFrame or table where the  Prediction of Normal Butane Volume Percentage is equal to or greater than 50% . 
+
+- Supervised Machine Learning:
+We were able to demonstrate our machine learning abilities. When resampling models to Predict of Normal Butane Volume Percentage, there was an accuracy score and confusion matrix for all three algorithms. And, we were able to simultaneously generate a classification resort for all three respective algorithms, we did a great job in regards to predicting Normal Butane Volume Percentage for the SMOTEENN algorithm. There is a confusion matrix and classification report. We used ensemble classifier to predict Normal Butane Volume Percentage. Proper implementation of accuracy score and confusion matrix for one algorithms. We were able to create a classification report and for one algorithms. We were able to sorting our list features, as well. Our purpose is well defined. The balanced accuracy score and the precision and recall scores for all our algorithms are described. Additionally, in our project the results are summarized with a recommendation. 
+
 - Feature Importances
 We also went ahead and calculated some feature importances, feature coefficients, and correlations to understand the relationships of the features among each other and with different model types. The feature importance functions such as model.coef_ and model.feature_importances_, along with naitive process knowlege of team group members, allowed for a systematic ranking of features. Though 54 of the original 56 features were left in the model, the feature importance ranking is a valuable output and will be used to further tune the model outside of the class project end date.
+
+-Unsupervised Machine Learning:
+
+We were able to preprocess the data for Prediction of Normal Butane Volume Percentage. We were able to perform all the following requirements on the Normal Butane Volume Percentagecrypto_df DataFrame. All the information that we do not need longer are removed and the ones that do not have a defined algorithm are removed, all the ones with at least one null value are dropped..Also we created a new DataFrame that stores of Prediction of Normal Butane Volume Percentage. We have an optimal method in place to create variables for all the text features, and we were also able to store in a DataFrame. The features from the DataFrame have been standardized with the proper function. We were able to reduce data dimensions using PCA. Our PCA algorithm reduces dimensions of the X dataFrame to three principle components. We were able to create the Prediction of Normal Butane Volume Percentage DataFrame with the columns. Our DataFrame uses the index from our Prediction of Normal Butane Volume Percentage DataFrame. When it came to clustering our Prediction of Normal Butane Volume Percentageyour using K-means, we were able to establish an elbow curve using hvPlot to find the best value for K. Optimal predictions are made.A new DataFrame is created with the same index as our Prediction of Normal Butane Volume Percentage DataFrame and has the necessary columns. Finally, the clusters were well plotted using a 3-D scatter plot and each data point shows the respective information and algorithm associated with it upon hovering. We did great job visualizing and materializing our results. We were really excited with our first project. Money Saver Team is the best. Also we created a  table with our Prediction of Normal Butane Volume Percentages using a function, which is then printed. DataFrame is created containing all clustered respective data. This was a tough project and ourt team did an absolute stellar job.
+
+
+Neural Networks and Deep Learning Models:
+
+We were able to complete all the pre-processing steps for the Prediction of Normal Butane Volume Percentage dataset. WE dropped the unnecessary columns, grouped the categorical features and applied one hot encoding successfully. The data was split correctly into X/y and Training/test sets. We applyied  the standard scaler. Also we  implemented the neural network model using tensorflow. The parameters were set for the number of layers, number of neurons and the activation functions. The network structure was displayed as output. We also measured the accuracy and loss of the model correctly and this was displayed. Weights were saved but not every 5 epochs and the results were saved to a HDF 5 file. Two out of three attempts were made to optimize the model. We tried to apply several changes to the parameters of the model. Some layers and neurons were added.
+
 
 2.- Group Assestment
 
@@ -72,8 +90,5 @@ In conclusion, there is certainly limitations to the model. While it does not pr
 
 ![image](https://user-images.githubusercontent.com/101227930/185296714-bcfd6502-d606-4bbb-b380-967d5297828d.png)
 
-Linear Regression.
-
-![image](https://user-images.githubusercontent.com/101227930/185296822-b6f22c85-e3ec-47d9-8011-4a608a270f5d.png)
 
 
