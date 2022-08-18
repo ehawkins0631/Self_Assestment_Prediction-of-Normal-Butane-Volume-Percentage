@@ -53,7 +53,8 @@ In conclusion, there is certainly limitations to the model. While it does not pr
 
 ![image](https://user-images.githubusercontent.com/101227930/185296714-bcfd6502-d606-4bbb-b380-967d5297828d.png)
 
-Linear Regression
+Linear Regression.
+
 ![image](https://user-images.githubusercontent.com/101227930/185296822-b6f22c85-e3ec-47d9-8011-4a608a270f5d.png)
 
 
