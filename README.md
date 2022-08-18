@@ -31,7 +31,7 @@ We were able to cohesively present a written analysis that summarizes the data d
 
 We more than delivered on our query establishment that enabled us to create a table with unique Normal-Butane-Volume-Percentage tables, all of which were successfully exported as CSV files. In addition, the format of our findings were arranged accordingly. 
 
-Statistics:
+- Statistics:
 
 We were able to demonstrate our statistics abilities with this project, we got a very marketable skill during this Bootcamp. The linear regression to predict Normal Butane Volume Percentage was great. We imported the csv file and read into a DataFrame. We wrote a clean R script for a linear regression model to perform on all our variables. An R script was also written well to create a statistical summary of the regression and it addresses all the requerements for this project as well .The total summary has all the metrics. An R script was written for a t-test that compares Prediction of Normal Butane Volume Percentage Vs. Actual Real Time, an R script was also written for all three t-tests. We were able to address the results across all Normal Butane Volume Percentage dataset. We have an awesome statistical design. We had a metric to be tested, a null or alternate hypothesis was described, our statistical test and the data for the statistical test is well described. This was an amazing project, we really got to showcase our R and statistical modeling knowledge in an amazing comprehensive manner. We wish to keep up the good work and this amazing flow we have been able to establish for the next project.
 
