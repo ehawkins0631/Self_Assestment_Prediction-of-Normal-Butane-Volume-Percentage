@@ -63,15 +63,15 @@ Figure 2: Metrics
 
 ![image](https://user-images.githubusercontent.com/101227930/185315649-69ecf9f0-c649-4a31-8407-277a975afd04.png)
 
+The total Mean Absolute Error is 1.75.
+The Mean Error 2.59
+
 
 
 Figure 3: Residual Plot show evenly distributed residuals, thus giving reason to believe the model performs well and is not over-fit.
 
 ![image](https://user-images.githubusercontent.com/101227930/185297754-189facfe-7a53-4692-80d8-6e8cbfc9ea06.png)
 
-
-The total Mean Absolute Error is 1.92, meaning the average error is only 1.92 Vol%.
-The total Root Mean Squared Error is 3.51
 
 
 Real Time Model Performance
