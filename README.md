@@ -97,3 +97,9 @@ While it does not predict the N-Butane Vol% exactly, it does seem to trend the g
 
 
 
+
+email:  ehawkins0631@gmail.com
+
+twitter: @evahawkins0630
+
+https://www.linkedin.com/in/eva-hawkins-a9b333147/
